@@ -5,7 +5,6 @@
  */
 package ejemploI;
 
-import taller03solid.*;
 
 /**
  *
